@@ -20,3 +20,7 @@
   - wrk_dir="work directory"
 - Execute like this: ./update.storyarc.numbersort.by.series-id.sh <series id>
 - You can find the series id from the url in Komga.
+
+**Disclaimer:**
+- Use it under your own responsability. I'm not responsabile for any issues that this causes in your comics or your Komga setup.
+- I don't think this could cause any major issues but I have a very limited test case and can be 100% sure about it.
